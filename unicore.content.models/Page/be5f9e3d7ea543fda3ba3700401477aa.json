@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Se tem mal\u00e1ria \u00e9 importante procurar um m\u00e9dico imediatamente. Se n\u00e3o for tratada, a mal\u00e1ria pode ser mortal.", 
-  "language": "por_AO", 
+  "language": "por_PT", 
   "title": "Como tratar a mal\u00e1ria", 
   "primary_category": "23e76d19a6dc450cb40aa9edb6070b23", 
   "created_at": "2015-01-23T14:55:31+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-28T06:03:23.254346+00:00", 
+  "modified_at": "2015-01-28T08:31:55.080260+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
